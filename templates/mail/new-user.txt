@@ -1,0 +1,2 @@
+Ciao {{ user.username }}, benvenuto nel mio
+super sito!
